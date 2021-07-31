@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Jong%20Hun%20Kim&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Jong%20Hun%20Kim&fontSize=90)
 
 <h3 align="center"> 👋 Hi there,</h3>
 <p align="center">
@@ -27,11 +27,12 @@ I'm Jong Hun Kim (Jayden Kim), a Senior CS student. </br>
   <img src="https://img.shields.io/badge/Hadoop%20-%2362C4F5?&style=fflat-square&logo=apache&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white" />&nbsp;&nbsp;
 </p>
-</br>
+</br></br>
 
-[![Jayden's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhun0514&show_icons=true&theme=tokyonight)](https://github.com/jhun0514/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhun0514&layout=compact&theme=tokyonight)](https://github.com/jhun0514)
+<p align="center">
+  <a href="https://github.com/jhun0514"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhun0514&layout=compact&theme=tokyonight"/></a></br></br>
+  <a href="https://github.com/jhun0514"><img src="https://github-readme-stats.vercel.app/api?username=jhun0514&show_icons=true&theme=tokyonight"/></a>
+</p>
 
 
 </br><h3 align="center">🐭 Me 🐭</h3>
@@ -45,6 +46,7 @@ I'm Jong Hun Kim (Jayden Kim), a Senior CS student. </br>
 <p align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjhun0514&count_bg=%2331CCDB&title_bg=%23808080&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </p>
+    </br></br>
 
 
 <!--
